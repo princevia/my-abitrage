@@ -1,0 +1,14 @@
+Clone into a new folder directory from github.
+
+.Initialize vite to install react
+    https://vitejs.dev/guide/
+    * npm init @vitelatest
+    * npm install react-icons ethers
+
+.Install tailwind and configure your template path
+    https://tailwindcss.com/docs/installation
+    * npm install -D tailwindcss
+    * npx tailwindcss init
+    * import gradient of choice from github
+
+.Build folder and file structure
